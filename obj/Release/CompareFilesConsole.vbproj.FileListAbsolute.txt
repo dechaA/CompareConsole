@@ -1,0 +1,18 @@
+D:\01_Work\98_R&D\CompareFiles\CompareFilesConsole\bin\Release\CompareFilesConsole.exe.config
+D:\01_Work\98_R&D\CompareFiles\CompareFilesConsole\bin\Release\CompareFilesConsole.exe
+D:\01_Work\98_R&D\CompareFiles\CompareFilesConsole\bin\Release\CompareFilesConsole.pdb
+D:\01_Work\98_R&D\CompareFiles\CompareFilesConsole\bin\Release\CompareFilesConsole.xml
+D:\01_Work\98_R&D\CompareFiles\CompareFilesConsole\obj\Release\CompareFilesConsole.Resources.resources
+D:\01_Work\98_R&D\CompareFiles\CompareFilesConsole\obj\Release\CompareFilesConsole.vbproj.GenerateResource.Cache
+D:\01_Work\98_R&D\CompareFiles\CompareFilesConsole\obj\Release\CompareFilesConsole.exe
+D:\01_Work\98_R&D\CompareFiles\CompareFilesConsole\obj\Release\CompareFilesConsole.xml
+D:\01_Work\98_R&D\CompareFiles\CompareFilesConsole\obj\Release\CompareFilesConsole.pdb
+D:\Working Area\PSTools\02_Engineering\04_Construct & Unit Test\CompareFiles\CompareFilesConsole\bin\Release\CompareFilesConsole.exe.config
+D:\Working Area\PSTools\02_Engineering\04_Construct & Unit Test\CompareFiles\CompareFilesConsole\bin\Release\CompareFilesConsole.exe
+D:\Working Area\PSTools\02_Engineering\04_Construct & Unit Test\CompareFiles\CompareFilesConsole\bin\Release\CompareFilesConsole.pdb
+D:\Working Area\PSTools\02_Engineering\04_Construct & Unit Test\CompareFiles\CompareFilesConsole\bin\Release\CompareFilesConsole.xml
+D:\Working Area\PSTools\02_Engineering\04_Construct & Unit Test\CompareFiles\CompareFilesConsole\obj\Release\CompareFilesConsole.Resources.resources
+D:\Working Area\PSTools\02_Engineering\04_Construct & Unit Test\CompareFiles\CompareFilesConsole\obj\Release\CompareFilesConsole.vbproj.GenerateResource.Cache
+D:\Working Area\PSTools\02_Engineering\04_Construct & Unit Test\CompareFiles\CompareFilesConsole\obj\Release\CompareFilesConsole.exe
+D:\Working Area\PSTools\02_Engineering\04_Construct & Unit Test\CompareFiles\CompareFilesConsole\obj\Release\CompareFilesConsole.xml
+D:\Working Area\PSTools\02_Engineering\04_Construct & Unit Test\CompareFiles\CompareFilesConsole\obj\Release\CompareFilesConsole.pdb

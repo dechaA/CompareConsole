@@ -1,0 +1,9 @@
+d:\01_work\98_r&d\CompareFiles\CompareFilesConsole\bin\Debug\CompareFilesConsole.exe.config
+d:\01_work\98_r&d\CompareFiles\CompareFilesConsole\bin\Debug\CompareFilesConsole.exe
+d:\01_work\98_r&d\CompareFiles\CompareFilesConsole\bin\Debug\CompareFilesConsole.pdb
+d:\01_work\98_r&d\CompareFiles\CompareFilesConsole\bin\Debug\CompareFilesConsole.xml
+d:\01_work\98_r&d\CompareFiles\CompareFilesConsole\obj\Debug\CompareFilesConsole.Resources.resources
+d:\01_work\98_r&d\CompareFiles\CompareFilesConsole\obj\Debug\CompareFilesConsole.vbproj.GenerateResource.Cache
+d:\01_work\98_r&d\CompareFiles\CompareFilesConsole\obj\Debug\CompareFilesConsole.exe
+d:\01_work\98_r&d\CompareFiles\CompareFilesConsole\obj\Debug\CompareFilesConsole.xml
+d:\01_work\98_r&d\CompareFiles\CompareFilesConsole\obj\Debug\CompareFilesConsole.pdb
